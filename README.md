@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlameenSakiru
 - 👀 I’m interested in creating so many projects 
-- 🌱 I’m currently learning Cyber security 
+- 🌱 I’m currently learning Web Development (HTML, CSS and JavaScript) 
 - 📫 How to reach me Email:  alameens2008@gmail.com 
 Whatsapp : +2348083072453
 
