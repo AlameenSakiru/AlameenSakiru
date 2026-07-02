@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlameenSakiru
 - 👀 I’m interested in creating so many projects 
-- 🌱 I’m currently a Web Development (HTML, CSS and JavaScript) 
+- 🌱 I’m currently a Full Stack Web developer
 - 📫 How to reach me Email:  alameens2008@gmail.com 
 Whatsapp : +2348083072453
 
